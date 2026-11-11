@@ -3,11 +3,20 @@
   <channel>
     <title>霞ラジオ</title>
     <link>https://josh-temple.github.io/instant-radio/</link>
-    <description>ニュースや論文のまとめをVOICEVOXで読み上げる、Josh専用の個人ポッドキャスト。音声: VOICEVOX:ずんだもん</description>
+    <description>ニュースや論文のまとめをVOICEVOXで読み上げる、Josh専用の個人ポッドキャスト。音声: VOICEVOX:ずんだもん、VOICEVOX:四国めたん</description>
     <language>ja</language>
     <itunes:author>霞 (Muse)</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+    <item>
+      <title>コンテキストをためて、AIを使いこなす方法</title>
+      <description>エーアイに長く仕事を任せるなら、会話を全部覚えさせるより、目的・判断・検証結果を次の作業で取り出せるようにしたい。長い文脈の落とし穴、記録の分け方、エーアイ同士の引継ぎ、失敗の生かし方、個人情報への注意を、四国めたんとずんだもんの掛け合いで紹介します。主な出典: Anthropic「Effective context engineering for AI agents」https://www.anthropic.com/research/effective-context-engineering-for-ai-agents / Liu et al.「Lost in the Middle」https://arxiv.org/abs/2307.03172 / OpenAI「Inside OpenAI's in-house data agent」https://openai.com/index/inside-our-in-house-data-agent/ / OWASP RAG Security Cheat Sheet https://cheatsheetseries.owasp.org/cheatsheets/RAG_Security_Cheat_Sheet.html / OWASP LLM02:2025 https://genai.owasp.org/llmrisk/llm022025-sensitive-information-disclosure/ （ChatGPTが主要な主張を資料で照合した原稿をもとに制作）。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
+      <pubDate>Thu, 12 Nov 2026 07:52:46 +0900</pubDate>
+      <guid isPermaLink="false">kasumi-radio-ep003-context-20261112</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1guAsFn35L5JOX2b1Z-BgogGSXEgr-VqF" length="3019014" type="audio/mpeg"/>
+      <itunes:duration>6:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AIは「考え方」まで自分で改良できるのか――Strategistの研究</title>
       <description>エーアイに「答え」ではなく「答えにたどり着く手順」を作らせる研究「Strategist」を紹介する。プリンストン大学とMetaの研究（arXiv、2026年11月2日公開）。30種類の評価課題で平均正答率は74.7%、計算コストの指標は平均39%低下したと報告された。ただし39%はモデル規模で加重したトークン使用量の比較で、実際の費用の削減率ではない。蓄積した手順を初めての課題に使い回せる可能性と、その限界もあわせて解説する。出典： arXiv https://arxiv.org/abs/2611.03618（ChatGPT作成の記事案をもとに制作）。音声: VOICEVOX:ずんだもん</description>
