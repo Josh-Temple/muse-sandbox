@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <item>
+      <title>AIは、あなたの好みをどこまで理解できるのか？――記憶・フィードバック・自己改善の最前線</title>
+      <description>AIに毎日フィードバックすれば、やがて自分好みの作品を短い指示だけで作れるようになるのでしょうか。好みを推定する研究、長期記憶、二つの作品の比較から学ぶ方法、スキルの改善効果と限界を取り上げます。論文・GitHub・Redditの知見を四国めたんとずんだもんが対話形式で掘り下げます。研究の数値が示す範囲と、実際に試すべきことも区別します。主な出典: PersonaMem-v2 https://arxiv.org/abs/2512.06688 / Lost in the Middle https://aclanthology.org/2024.tacl-1.9/ / A-MEM https://arxiv.org/abs/2502.12110 / T-POP https://proceedings.mlr.press/v306/qu26i.html / SkillsBench https://www.skillsbench.ai/skillsbench.pdf / GEPA https://arxiv.org/abs/2507.19457 / Bad Memory https://arxiv.org/abs/2607.14611。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
+      <pubDate>Thu, 12 Nov 2026 22:48:30 +0900</pubDate>
+      <guid isPermaLink="false">kasumi-radio-ep005-20261112</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1klUPUVxsibzNitF9w4Pp7akEopPXejfy" length="13449652" type="audio/mpeg"/>
+      <itunes:duration>28:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>「お願いするのが怖い」のは、なぜ？</title>
       <description>頼み事は、思っているより受け入れられやすい？ 2008年の実験から、助ける側の気持ちを調べた2022年の研究、断る自由を守る2024年の実験まで、四国めたんとずんだもんが一緒に考えます。『お願いを増やせば勝てる』という話ではありません。承諾と本心の違い、相手が無理なく断れる言い方にも注目します。主な出典: Flynn &amp; Lake (2008) https://doi.org/10.1037/0022-3514.95.1.128 / Zhao &amp; Epley (2022) https://doi.org/10.1177/09567976221097615 / Schlund, Sommers &amp; Bohns (2024) https://www.nature.com/articles/s41598-023-50532-3 / Roghanizad &amp; Bohns (2022) https://doi.org/10.1177/19485506211063259。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
       <pubDate>Thu, 12 Nov 2026 17:50:39 +0900</pubDate>
