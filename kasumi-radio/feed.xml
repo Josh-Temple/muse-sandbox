@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <item>
+      <title>AIにGPUを貸したら何が起きる？――無料クラウドGPUの実力と落とし穴</title>
+      <description>GPUを持たないAIエージェントに、クラウドの無料GPUを貸したら何ができるようになるのか。Kaggle、Google Colab、Modalで「無料」の意味がどう違うのか、SNSの成功談とGitHubの失敗記録、安全に止められる仕組みの大切さを、四国めたんとずんだもんが対話形式で掘り下げます。計算の速さだけでなく、費用・規約・権限・検証まで含めて、霞ラジオの制作に本当に役立つかを考えます。主な出典: Kaggle GPU利用案内 https://www.kaggle.com/docs/efficient-gpu-usage / Kaggle公式MCP https://www.kaggle.com/docs/mcp / Google Colab公式FAQ https://research.google.com/colaboratory/faq.html / Modal料金 https://modal.com/pricing / VOICEVOX ENGINE https://github.com/VOICEVOX/voicevox_engine 。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
+      <pubDate>Mon, 16 Nov 2026 06:57:08 +0900</pubDate>
+      <guid isPermaLink="false">kasumi-radio-ep006-20261116</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xitvzqjgPEad0NKnvh9aI61Gbs1hX5fi" length="8851650" type="audio/mpeg"/>
+      <itunes:duration>18:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIは、あなたの好みをどこまで理解できるのか？――記憶・フィードバック・自己改善の最前線</title>
       <description>AIに毎日フィードバックすれば、やがて自分好みの作品を短い指示だけで作れるようになるのでしょうか。好みを推定する研究、長期記憶、二つの作品の比較から学ぶ方法、スキルの改善効果と限界を取り上げます。論文・GitHub・Redditの知見を四国めたんとずんだもんが対話形式で掘り下げます。研究の数値が示す範囲と、実際に試すべきことも区別します。主な出典: PersonaMem-v2 https://arxiv.org/abs/2512.06688 / Lost in the Middle https://aclanthology.org/2024.tacl-1.9/ / A-MEM https://arxiv.org/abs/2502.12110 / T-POP https://proceedings.mlr.press/v306/qu26i.html / SkillsBench https://www.skillsbench.ai/skillsbench.pdf / GEPA https://arxiv.org/abs/2507.19457 / Bad Memory https://arxiv.org/abs/2607.14611。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
       <pubDate>Thu, 12 Nov 2026 22:48:30 +0900</pubDate>
