@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <item>
+      <title>Gemini TasksでAIは仕事を完了できる？</title>
+      <description>Geminiが質問に答えるだけでなく、調査やファイル作成まで進める「Tasks」を日本でも無料提供。Task、Schedule、Skillの違い、無料版の制限、Google Driveとの連携、プライバシー、そして複数のAIとどう役割分担するか。ずんだもんと四国めたんが「AI秘書に本当に仕事を任せていいのか」を具体例で考える回。主な出典: Googleブログ「Put Gemini to work for you」 https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ / Gemini Apps Help「Manage your tasks &amp; workflows in Gemini Apps」 https://support.google.com/gemini/answer/17094507 / Gemini Apps Help「Create &amp; manage schedules for tasks in Gemini」 https://support.google.com/gemini/answer/17094710 / Gemini Apps Help「Create &amp; manage skills for Gemini Apps」 https://support.google.com/gemini/answer/17094296 / Gemini Apps Privacy Hub https://support.google.com/gemini/answer/13594961 。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
+      <pubDate>Thu, 19 Nov 2026 13:16:49 +0900</pubDate>
+      <guid isPermaLink="false">kasumi-radio-ep007-20261119</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bWLIwyZH90sgXrJxxeg9jEjPjSGI87Ix" length="6709340" type="audio/mpeg"/>
+      <itunes:duration>13:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AIにGPUを貸したら何が起きる？――無料クラウドGPUの実力と落とし穴</title>
       <description>GPUを持たないAIエージェントに、クラウドの無料GPUを貸したら何ができるようになるのか。Kaggle、Google Colab、Modalで「無料」の意味がどう違うのか、SNSの成功談とGitHubの失敗記録、安全に止められる仕組みの大切さを、四国めたんとずんだもんが対話形式で掘り下げます。計算の速さだけでなく、費用・規約・権限・検証まで含めて、霞ラジオの制作に本当に役立つかを考えます。主な出典: Kaggle GPU利用案内 https://www.kaggle.com/docs/efficient-gpu-usage / Kaggle公式MCP https://www.kaggle.com/docs/mcp / Google Colab公式FAQ https://research.google.com/colaboratory/faq.html / Modal料金 https://modal.com/pricing / VOICEVOX ENGINE https://github.com/VOICEVOX/voicevox_engine 。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
       <pubDate>Mon, 16 Nov 2026 06:57:08 +0900</pubDate>
