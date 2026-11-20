@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <item>
+      <title>ChatGPT SpaceはPlusプランでどう使える？</title>
+      <description>Plusプランへの段階的提供が始まった「ChatGPT Space」について、OpenAI公式情報とReddit・GitHubの個別報告を切り分けながら整理します。Projectsや従来のLibraryとの違い、Androidやモバイル利用時の注意点、共有権限や自動更新（Keep Updated）まわりの制約、そしてGoogle DriveやGitHubとの現実的な役割分担まで、四国めたんとずんだもんの対話で確認します。主な出典: OpenAI Help Center「Getting started with Space in ChatGPT」 / OpenAI Learn「Work with pages」「Work with agents in Space」「Collaborate in Space」「ChatGPT Space overview」 / r/ChatGPTProの利用者報告 / openai/codex Issue #50247・#55429・#57389・#59443。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
+      <pubDate>Fri, 20 Nov 2026 15:26:18 +0900</pubDate>
+      <guid isPermaLink="false">kasumi-radio-ep008-20261120</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eHpHrdJlMNb0QkP3A9v43oK89TyjQEuH" length="3624095" type="audio/mpeg"/>
+      <itunes:duration>7:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Gemini TasksでAIは仕事を完了できる？</title>
       <description>Geminiが質問に答えるだけでなく、調査やファイル作成まで進める「Tasks」を日本でも無料提供。Task、Schedule、Skillの違い、無料版の制限、Google Driveとの連携、プライバシー、そして複数のAIとどう役割分担するか。ずんだもんと四国めたんが「AI秘書に本当に仕事を任せていいのか」を具体例で考える回。主な出典: Googleブログ「Put Gemini to work for you」 https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ / Gemini Apps Help「Manage your tasks &amp; workflows in Gemini Apps」 https://support.google.com/gemini/answer/17094507 / Gemini Apps Help「Create &amp; manage schedules for tasks in Gemini」 https://support.google.com/gemini/answer/17094710 / Gemini Apps Help「Create &amp; manage skills for Gemini Apps」 https://support.google.com/gemini/answer/17094296 / Gemini Apps Privacy Hub https://support.google.com/gemini/answer/13594961 。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
       <pubDate>Thu, 19 Nov 2026 13:16:49 +0900</pubDate>
