@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <item>
+      <title>Google AI Proを契約したら何が変わる？ 複数AI時代の使い分けと活用法</title>
+      <description>Google AI Pro（月額2,900円）を契約したばかりの方に向けて、単なるチャット利用にとどまらない実践的な活用法を整理しました。最上位モデル（Gemini 4 Argon）と100万トークン枠の活かし方、Tasks・Skillsを使った安全な自動化、複数AIとの役割分担、そして見落としがちな毎月10ドルのGoogle CloudクレジットやGoogle Flowの活用まで、ずんだもんと四国めたんが解説します。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
+      <pubDate>Mon, 23 Nov 2026 05:58:12 +0900</pubDate>
+      <guid isPermaLink="false">kasumi-radio-ep009-20261123</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XWZituyR8thvXqJkhN_omkrGgRckTyeW" length="5499016" type="audio/mpeg"/>
+      <itunes:duration>11:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ChatGPT SpaceはPlusプランでどう使える？</title>
       <description>Plusプランへの段階的提供が始まった「ChatGPT Space」について、OpenAI公式情報とReddit・GitHubの個別報告を切り分けながら整理します。Projectsや従来のLibraryとの違い、Androidやモバイル利用時の注意点、共有権限や自動更新（Keep Updated）まわりの制約、そしてGoogle DriveやGitHubとの現実的な役割分担まで、四国めたんとずんだもんの対話で確認します。主な出典: OpenAI Help Center「Getting started with Space in ChatGPT」 / OpenAI Learn「Work with pages」「Work with agents in Space」「Collaborate in Space」「ChatGPT Space overview」 / r/ChatGPTProの利用者報告 / openai/codex Issue #50247・#55429・#57389・#59443。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
       <pubDate>Fri, 20 Nov 2026 15:26:18 +0900</pubDate>
