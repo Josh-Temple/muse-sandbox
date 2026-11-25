@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <item>
+      <title>はやぶさ2の歩みと拡張ミッション</title>
+      <description>小惑星探査機「はやぶさ2」の歩みと拡張ミッションについて、JAXA宇宙科学研究所の一次資料で確認できる内容をもとに、四国めたんとずんだもんが整理します。2014年12月の打ち上げから、小惑星リュウグウでの2回のタッチダウンによる表面・地下の試料採取、2020年12月6日のカプセル回収と試料重量（5.424グラム）を振り返ります。さらに、カプセル分離後の探査機本体が続ける拡張ミッションとして、2026年7月5日の小惑星トリフネ（2001 CC21）フライバイや、2031年に到着を目指す小惑星1998 KY26についても紹介します。主な出典: JAXA宇宙科学研究所「小惑星探査機はやぶさ2」 http://www.isas.jaxa.jp/missions/spacecraft/current/hayabusa2.html / 地球外物質研究グループ「はやぶさ2｜小惑星リュウグウ」 https://curation.isas.jaxa.jp/sample-curation/ryugu/ / Cosmos「The sample from asteroid Ryugu: summary early 2023」 https://cosmos.isas.jaxa.jp/?p=6901 。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
+      <pubDate>Wed, 25 Nov 2026 18:10:14 +0900</pubDate>
+      <guid isPermaLink="false">kasumi-radio-ep010-20261125</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QL5sJxgrYdTKSO2o0FTiZb9wdAb38y_Y" length="3954452" type="audio/mpeg"/>
+      <itunes:duration>8:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Google AI Proを契約したら何が変わる？ 複数AI時代の使い分けと活用法</title>
       <description>Google AI Pro（月額2,900円）を契約したばかりの方に向けて、単なるチャット利用にとどまらない実践的な活用法を整理しました。最上位モデル（Gemini 4 Argon）と100万トークン枠の活かし方、Tasks・Skillsを使った安全な自動化、複数AIとの役割分担、そして見落としがちな毎月10ドルのGoogle CloudクレジットやGoogle Flowの活用まで、ずんだもんと四国めたんが解説します。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
       <pubDate>Mon, 23 Nov 2026 05:58:12 +0900</pubDate>
