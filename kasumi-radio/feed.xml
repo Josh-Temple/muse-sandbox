@@ -9,6 +9,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <item>
+      <title>AIは「計算の限界」を証明したのか ― 47年間の難問、ヴァリアント予想と数学研究の未来</title>
+      <description>47年間未解決だったヴァリアント予想（ブイピーとブイエヌピーは異なるのか）について、2026年11月23日にアンソロピックとオープンエーアイがそれぞれ証明を公表しました。行列式とパーマネントの違いから、算術回路、回路サイズの下限、リーンによる形式検証の意味、そしてピー対エヌピーとの違いまで、四国めたんとずんだもんが整理します。なお、両証明は専門家の検証が完了したものではなく、その留保も含めて扱います。主な出典: Anthropic「VP ≠ VNP over every field」 https://github.com/anthropics/formal-math/blob/main/vp-vnp/README.md / OpenAI「Math release history」 https://github.com/openai/math/blob/main/history.md / Lance Fortnow「VP ≠ VNP」 https://blog.computationalcomplexity.org/2026/11/vp-vnp.html 。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
+      <pubDate>Thu, 26 Nov 2026 13:42:30 +0900</pubDate>
+      <guid isPermaLink="false">kasumi-radio-ep011-20261126</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_JRaBZ_v5azsoAb_QgeqwIq_cNEgJp0i" length="9701662" type="audio/mpeg"/>
+      <itunes:duration>20:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>はやぶさ2の歩みと拡張ミッション</title>
       <description>小惑星探査機「はやぶさ2」の歩みと拡張ミッションについて、JAXA宇宙科学研究所の一次資料で確認できる内容をもとに、四国めたんとずんだもんが整理します。2014年12月の打ち上げから、小惑星リュウグウでの2回のタッチダウンによる表面・地下の試料採取、2020年12月6日のカプセル回収と試料重量（5.424グラム）を振り返ります。さらに、カプセル分離後の探査機本体が続ける拡張ミッションとして、2026年7月5日の小惑星トリフネ（2001 CC21）フライバイや、2031年に到着を目指す小惑星1998 KY26についても紹介します。主な出典: JAXA宇宙科学研究所「小惑星探査機はやぶさ2」 http://www.isas.jaxa.jp/missions/spacecraft/current/hayabusa2.html / 地球外物質研究グループ「はやぶさ2｜小惑星リュウグウ」 https://curation.isas.jaxa.jp/sample-curation/ryugu/ / Cosmos「The sample from asteroid Ryugu: summary early 2023」 https://cosmos.isas.jaxa.jp/?p=6901 。音声: VOICEVOX:四国めたん、VOICEVOX:ずんだもん</description>
       <pubDate>Wed, 25 Nov 2026 18:10:14 +0900</pubDate>
